@@ -9,7 +9,7 @@
 
 <!--<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">-->
                                                
-<h3 align="center">Programador backend | Especializado en spring boot | Entusiasta de DevOps</h3>
+<h3 align="center">Desarrollador web | Enfocado en backend | Entusiasta de DevOps</h3>
 
   <br/>
 
