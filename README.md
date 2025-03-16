@@ -25,10 +25,11 @@
 
 <h3 align="center">Me puedes encotnrar en:</h3>
 <div align="center">
-
+  
+[![image](https://img.shields.io/badge/portafolio-800080?style=for-the-badge&logoColor=white)](https://patricioabarca.netlify.app/)
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patricioabarca88@gmail.com)
-  
+
 </div>
 
 
