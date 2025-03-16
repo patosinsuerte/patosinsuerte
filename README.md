@@ -15,7 +15,7 @@
 
 - 🖥️ Actualmente estoy trabajando en el desarrollo de la plataforma **"Busca Práctica"**
 
-- 📚 Actualmente estoy aprendiendo **Kubernetes y Jakarta EE**
+- 📚 En paralelo estoy aprendiendo **Kubernetes y Jakarta EE**
 
 - 💼 Estoy buscando colaborar en proyectos de desarrollo **Backend con spring boot**
 
