@@ -17,7 +17,7 @@
 
 - 📚 En paralelo estoy aprendiendo **Kubernetes y Jakarta EE**
 
-- 💼 Estoy buscando colaborar en proyectos de desarrollo **Backend con spring boot**
+- 💼 Estoy en busca de trabajo como porgramador **Backend con spring boot**
 
 - 📫 Puedes contactarme: **patricioabarca88@gmail.com**
 
